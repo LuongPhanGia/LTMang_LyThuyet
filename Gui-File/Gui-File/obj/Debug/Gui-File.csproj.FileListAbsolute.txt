@@ -1,0 +1,6 @@
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Gui-File\bin\Debug\Gui-File.exe.config
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Gui-File\bin\Debug\Gui-File.exe
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Gui-File\bin\Debug\Gui-File.pdb
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Gui-File\obj\Debug\Gui-File.csproj.CoreCompileInputs.cache
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Gui-File\obj\Debug\Gui-File.exe
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Gui-File\obj\Debug\Gui-File.pdb

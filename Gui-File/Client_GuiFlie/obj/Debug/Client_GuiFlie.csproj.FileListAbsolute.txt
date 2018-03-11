@@ -1,0 +1,7 @@
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Client_GuiFlie\bin\Debug\Client_GuiFlie.exe.config
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Client_GuiFlie\bin\Debug\Client_GuiFlie.exe
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Client_GuiFlie\bin\Debug\Client_GuiFlie.pdb
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Client_GuiFlie\obj\Debug\Client_GuiFlie.csprojResolveAssemblyReference.cache
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Client_GuiFlie\obj\Debug\Client_GuiFlie.csproj.CoreCompileInputs.cache
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Client_GuiFlie\obj\Debug\Client_GuiFlie.exe
+C:\Users\PHANGIALUONG\Documents\Visual Studio 2017\Projects\Luong.LTMang\Ly thuyet\Gui-File\Client_GuiFlie\obj\Debug\Client_GuiFlie.pdb
